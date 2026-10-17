@@ -1,4 +1,4 @@
-# SauceDemo — Manual QA Testing Portfolio
+# SauceDemo - Manual QA Testing Portfolio
 
 ## Project Overview
 
@@ -36,7 +36,7 @@ The objective was to validate core application functionality, identify potential
 | TC-007 | Pricing Calculation | PASS |
 | TC-008 | Product Sorting | PASS |
 
-## Confirmed Defect — BUG-001
+## Confirmed Defect - BUG-001
 
 **Title:** Login Error Message Overflows Its Container
 
