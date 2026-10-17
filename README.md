@@ -66,7 +66,7 @@ This was documented as a content observation rather than a confirmed defect beca
 
 The complete PDF report contains test results, screenshots, findings, and conclusions.
 
-[View Complete QA Report](./SauceDemo_QA_Report_Final_With_BUG001.pdf)
+[View Complete QA Report](./SauceDemo_QA_Report_Final.pdf)
 
 ## Testing Limitations
 
